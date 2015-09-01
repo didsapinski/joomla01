@@ -3,7 +3,9 @@
     <title>SSS</title>
   </head>
   <body bgcolor=white>
-
+<?php
+echo "from PHPH";
+?>
     <table border="0" cellpadding="10">
       <tr>
         <td>
